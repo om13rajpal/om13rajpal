@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👻 About Me:
 🎮 Aspiring Game Developer | 💻 Web Development Enthusiast | 🚀 Backend Learner | 🌐 C/C++ Programmer<br><br>👋 Hey there! I'm Om, a passionate game developer on a journey to create immersive gaming experiences. My expertise lies in web development, and I'm currently delving into the intricacies of backend development to enhance my skills.<br><br>💡 Currently working on a groundbreaking project: a hypothetical 3D arms website for a sneaker store! 🏀👟 Combining my love for gaming and web development, I'm crafting a unique experience that seamlessly blends technology and fashion.<br><br>🚀 Skills:<br>- Frontend: HTML, CSS, JavaScript<br>- Backend: Currently mastering backend technologies<br>- Programming Languages: C, C++<br>- Game Development: Eager to explore new technologies and frameworks<br><br>🌐 Open to collaboration and always up for a coding challenge! Let's connect and create something extraordinary together. Check out my repositories and join me on this exciting coding adventure!<br><br>#GameDev #WebDev #Backend #Cplusplus #InnovationInProgress ✨
 
 
