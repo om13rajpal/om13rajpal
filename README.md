@@ -15,6 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=om13rajpal&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lyzm84nltb42nl85z4g9klr8j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" /></div>  
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
@@ -28,3 +30,6 @@
 [![](https://visitcount.itsvg.in/api?id=om13rajpal&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 
+<br clear="both"> <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
