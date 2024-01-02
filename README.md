@@ -44,6 +44,3 @@
 [![](https://visitcount.itsvg.in/api?id=om13rajpal&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-###
-<img src="https://github.com/om13rajpal/om13rajpal/blob/output/snake.svg" alt="Snake animation" />
