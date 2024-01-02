@@ -1,6 +1,20 @@
-# 👻 About Me:
-🎮 Aspiring Game Developer | 💻 Web Development Enthusiast | 🚀 Backend Learner | 🌐 C/C++ Programmer<br><br>👋 Hey there! I'm Om, a passionate game developer on a journey to create immersive gaming experiences. My expertise lies in web development, and I'm currently delving into the intricacies of backend development to enhance my skills.<br><br>💡 Currently working on a groundbreaking project: a hypothetical 3D arms website for a sneaker store! 🏀👟 Combining my love for gaming and web development, I'm crafting a unique experience that seamlessly blends technology and fashion.<br><br>🚀 Skills:<br>- Frontend: HTML, CSS, JavaScript<br>- Backend: Currently mastering backend technologies<br>- Programming Languages: C, C++<br>- Game Development: Eager to explore new technologies and frameworks<br><br>🌐 Open to collaboration and always up for a coding challenge! Let's connect and create something extraordinary together. Check out my repositories and join me on this exciting coding adventure!<br><br>#GameDev #WebDev #Backend #Cplusplus #InnovationInProgress ✨
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&pause=1000&color=F78100&random=false&width=435&lines=Hi+there!+%3AD;I+am+Om+Rajpal" alt="Typing SVG" /></a>
 
+🎮 Aspiring Game Developer | 💻 Web Development Enthusiast | 🚀 Backend Learner | 🌐 C/C++ Programmer
+
+👋 Hey there! I'm [Your Name], a passionate game developer on a journey to create immersive gaming experiences. My expertise lies in web development, and I'm currently delving into the intricacies of backend development to enhance my skills.
+
+💡 Currently working on a groundbreaking project: a hypothetical 3D arms website for a sneaker store! 🏀👟 Combining my love for gaming and web development, I'm crafting a unique experience that seamlessly blends technology and fashion.
+
+🚀 Skills:
+- Frontend: HTML, CSS, JavaScript
+- Backend: Currently mastering backend technologies
+- Programming Languages: C, C++
+- Game Development: Eager to explore new technologies and frameworks
+
+🌐 Open to collaboration and always up for a coding challenge! Let's connect and create something extraordinary together. Check out my repositories and join me on this exciting coding adventure!
+
+#GameDev #WebDev #Backend #Cplusplus #InnovationInProgress ✨
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_omrajpal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajpalom) 
@@ -32,4 +46,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
-<img src="https://raw.githubusercontent.com/om13rajpal/om13rajpal/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/om13rajpal/om13rajpal/blob/output/snake.svg" alt="Snake animation" />
