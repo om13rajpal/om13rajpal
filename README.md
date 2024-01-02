@@ -31,5 +31,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 
-<br clear="both"> <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+###
+<img src="https://raw.githubusercontent.com/om13rajpal/om13rajpal/output/snake.svg" alt="Snake animation" />
