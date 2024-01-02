@@ -45,24 +45,27 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=410 src="https://github-readme-stats.vercel.app/api?username=om13rajpal&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=om13rajpal&theme=dark&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=410 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om13rajpal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    </a>
+  </div>
+</p>
+ <br>
+<br>
+<br>
 <div align="center">
-# 📊 GitHub Stats:
-
-<div align ="center">
-
-<span align="left">  
-  
-![](https://github-readme-stats.vercel.app/api?username=om13rajpal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-</span>
-
-<span align="right">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=om13rajpal&theme=dark&hide_border=true)<br/>
-</span>
-</div>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=om13rajpal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=om13rajpal&limit=5&theme=dark&combine_all_yearly_contributions=true)
