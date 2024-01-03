@@ -1,6 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&duration=3000&pause=500&color=F78100&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%3AD;I+am+Om+Rajpal" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&duration=3000&pause=500&color=F78100&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%3AD;I+am+Om+Rajpal" alt="Typing SVG" />
 </h1>
   <h3 align="center">🚀 Welcome to Om's Code Odyssey! 🎮</h3>
   <br>
@@ -30,32 +29,27 @@
 <h2 align="center">⟪ Languages-Frameworks-Tools ⟫</h2>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,javascript,css,wordpress,html" /><br>
     <img src="https://skillicons.dev/icons?i=blender,linux,vscode,figma,unity,webflow" />
-
-  </a>
 </p>
 <h3 align="center">‹Learning›</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,docker,nodejs,flutter" />
-  </a>
 </p>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=om13rajpal&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="zumrudu-anka" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=om13rajpal&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="zumrudu-anka" />
 </div>
 <br>
 <div align="center">
-      <img align="center" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=om13rajpal&theme=dark&hide_border=true" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om13rajpal&theme=dark&hide_border=true" />
 </div>
 <br>
 <div align="center">
-      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=om13rajpal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om13rajpal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
  <br>
 <br>
