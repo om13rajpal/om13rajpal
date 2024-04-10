@@ -1,14 +1,17 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&duration=3000&pause=500&color=F78100&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%3AD;I+am+Om+Rajpal" alt="Typing SVG" />
 </h1>
+<div align="center">
+  <img width="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh5Mm8zZ3l4ZHBvbmVveWdwdXh5MGdlYmxiNG81bXRpMXdocDZtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" alt="Astronaut" align="center"/>
+</div>
   <h3 align="center">🚀 Welcome to Om's Code Odyssey! 🎮</h3>
   <br>
   <p align="center">
-  👨‍💻 Web developer, gamer, and aspiring game dev
+  👨‍💻 Game, web and app developer
   <br>
-  🌐 Exploring code and hacking tools
+  🌐 Exploring scripting, hacking and AI/ML
   <br>
-  🛠️ Currently mastering Kali Linux
+  🛠️ Currently mastering game development
   <br>
   🎮 Join me on this epic journey!
   <br>
@@ -29,12 +32,12 @@
 <h2 align="center">⟪ Languages-Frameworks-Tools ⟫</h2>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,javascript,css,wordpress,html" /><br>
-    <img src="https://skillicons.dev/icons?i=blender,linux,vscode,figma,unity,webflow" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,css,wordpress,html,nodejs,flutter,discord,express,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=blender,linux,vscode,figma,webflow,c,figma,kali,postman,dart" />
 </p>
 <h3 align="center">‹Learning›</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,docker,nodejs,flutter" />
+    <img src="https://skillicons.dev/icons?i=python,docker,go,threejs,discordjs,vercel,tailwind,arduino,unity" />
 </p>
 <hr>
 
@@ -59,8 +62,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=om13rajpal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<br>
+
+<div align="center">
+  <img width="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1ydDh2c21uaGNxeWc1anE3b3U3ZjlkOWY1YWN3ejJuNnMxaTh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HT6UQMUZMNbgyexsrL/giphy.gif" alt="Duck" align="center"/>
+</div>
 
 
 </div>
