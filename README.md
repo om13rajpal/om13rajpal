@@ -33,11 +33,11 @@
 <br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,javascript,css,wordpress,html,nodejs,flutter,discord,express,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=blender,linux,vscode,figma,webflow,c,figma,kali,postman,dart" />
+    <img src="https://skillicons.dev/icons?i=blender,linux,vscode,vercel,webflow,c,figma,kali,postman,dart" />
 </p>
 <h3 align="center">‹Learning›</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,docker,go,threejs,discordjs,vercel,tailwind,arduino,unity" />
+    <img src="https://skillicons.dev/icons?i=python,docker,go,threejs,discordjs,tailwind,arduino,unity" />
 </p>
 <hr>
 
