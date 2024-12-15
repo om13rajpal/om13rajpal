@@ -32,8 +32,8 @@
 <h2 align="center">⟪ Languages-Frameworks-Tools ⟫</h2>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,javascript,css,wordpress,html,nodejs,flutter,discord,express,mongodb,docker,go" /><br>
-    <img src="https://skillicons.dev/icons?i=blender,linux,vscode,vercel,webflow,c,figma,kali,postman,dart,threejs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,css,html,nodejs,flutter,express,mongodb,docker,go,prisma,ts" /><br>
+    <img src="https://skillicons.dev/icons?i=blender,linux,webflow,c,figma,kali,dart,threejs,tailwind,nextjs,react" />
 </p>
 <h3 align="center">‹Learning›</h3>
 <p align="center">
